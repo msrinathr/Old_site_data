@@ -1,0 +1,2 @@
+webpackJsonp([0xe70826b53c04],{374:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Srinath Muskula",subtitle:"Engineer, writing about topics related to Technology",copyright:"",menu:[{label:"About me",path:"/about/"},{label:"Articles",path:"/"},{label:"Contact",path:"/contact/"}],author:{name:"Srinath Muskula",email:"srinath@muskula.xyz",twitter:"redmusk",github:"msrinathr",rss:""}}}},pathContext:{}}}});
+//# sourceMappingURL=path---404-9119a28dc330fe98049d.js.map
